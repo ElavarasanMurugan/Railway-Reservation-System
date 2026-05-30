@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040083
+# Name: Elavarasan M
+# Date: 30-05-2026
 
 
 # AIM:
@@ -41,7 +41,7 @@ Specifying the context and requirements of a system
 
 
 
-
+![alt text](Diagrams/UseCase.png)
 
 
 
@@ -59,7 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+![alt text](Diagrams/Class.png)
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,7 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
-
+![alt text](Diagrams/Communication.png)
 
 # PACKAGE DIAGRAM:
 
@@ -81,7 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![alt text](Diagrams/Package.png)
 
 
 
@@ -99,13 +99,14 @@ Describe the steps performed in a UML use case.
 
 
 
-
+![alt text](Diagrams/Activity.png)
 
 # SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
@@ -119,7 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+![alt text](Diagrams/Sequence.png)
 
 
 
